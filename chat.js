@@ -1,5 +1,5 @@
 'use strict';
-const WEBHOOK_URL = 'https://annie2143.app.n8n.cloud/webhook/3733a05a-a751-4d88-885f-b36ffa818b79/chat';
+const WEBHOOK_URL = 'https://annie2143.app.n8n.cloud/webhook/253aa325-8ce3-4315-8166-5ddeb14c7d51/chat';
 const key = 'kovalenko-chat-v1';
 const messages = document.querySelector('#messages');
 const input = document.querySelector('#input');
